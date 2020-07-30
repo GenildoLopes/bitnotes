@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/GenildoLopes/bitnotes/issues"
   },
-  "homepage": "https://github.com/GenildoLopes/bitnotes#readme"
+  "homepage": "https://github.com/GenildoLopes/bitnotes#readme",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
 }
