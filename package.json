@@ -1,0 +1,24 @@
+{
+  "name": "bitnotes",
+  "version": "1.0.0",
+  "description": "Uma aplicação desktop de bloco de notas feita com Electron JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenildoLopes/bitnotes.git"
+  },
+  "keywords": [
+    "notepad",
+    "electron",
+    "app"
+  ],
+  "author": "Genildo Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GenildoLopes/bitnotes/issues"
+  },
+  "homepage": "https://github.com/GenildoLopes/bitnotes#readme"
+}
