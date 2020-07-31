@@ -2,7 +2,7 @@
   "name": "bitnotes",
   "version": "1.0.0",
   "description": "Uma aplicação desktop de bloco de notas feita com Electron JS ",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "test"
