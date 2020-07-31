@@ -4,6 +4,7 @@
   "description": "Uma aplicação desktop de bloco de notas feita com Electron JS ",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "test"
   },
   "repository": {
