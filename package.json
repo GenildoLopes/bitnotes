@@ -24,5 +24,8 @@
   "homepage": "https://github.com/GenildoLopes/bitnotes#readme",
   "devDependencies": {
     "electron": "^9.1.2"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.2"
   }
 }
